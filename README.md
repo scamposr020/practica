@@ -1,2 +1,1 @@
-# practica
-Practica 
+Codigo sobre el proyecto final
